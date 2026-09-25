@@ -19,3 +19,7 @@
 #    - Lists of 3 strings (fruits)
 #    - Lists with mixed data types
 #    Print each with its length
+
+print("\n--- Q1: Creating Lists ---")
+
+
