@@ -166,3 +166,11 @@ print("list3:", list3)
 
 print("\n--- Q7: Membership Operators ---")
 
+fruits = ["apple", "mango", "cherry", "date"]
+
+print("Fruits:", fruits)
+print("'mango' in fruits:", 'mango' in fruits)
+print("'banana' in fruits:", 'banana' in fruits)
+print("'grape' not in fruits:", 'grape' not in fruits)
+
+# ----------------------------------------------------------
