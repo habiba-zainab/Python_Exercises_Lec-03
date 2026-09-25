@@ -117,3 +117,6 @@ print("First element (using -5):", numbers[-5])
 #   Print list after each change
 
 print("\n--- Q5: Modifying Elements ---")
+
+grades = [85, 90, 78, 92, 88]
+print("Original:", grades)
