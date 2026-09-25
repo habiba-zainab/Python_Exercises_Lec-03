@@ -164,3 +164,5 @@ print("list3:", list3)
 #   - Is "banana" in the list?
 #   - Is "grape" not in the list?
 
+print("\n--- Q7: Membership Operators ---")
+
