@@ -90,3 +90,5 @@ print("Last color:", colors[4])
 #    - Last element (index -1)
 #    - Second last element (index -2)
 #    - First element using negative index (index -5)
+
+print("\n--- Q4: Negative Indexing ---")
