@@ -51,3 +51,8 @@ print("Even 0-20:", range2)
 
 range3 = list(range(50, 9, -5))
 print("50 to 10 (step -5):", range3)
+
+range4 = list(range(3, 31, 3))
+print("Multiples of 3:", range4)
+
+# ----------------------------------------------------------
