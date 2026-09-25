@@ -133,3 +133,11 @@ print("After middle change:", grades)
 # ----------------------------------------------------------
 
 #    ***** List Operations *****
+
+# Q6: List concatenation and repetition
+#   Given: list1 = [1, 2, 3]
+#          list2 = [4, 5, 6]
+#   Perform: 
+#   - Concatenate list1 and list2
+#   - Repeat list1 three times
+#   - Create list3 combining list1 + list2 + list1
