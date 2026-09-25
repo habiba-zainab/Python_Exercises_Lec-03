@@ -83,3 +83,10 @@ print("Last color:", colors[4])
 # ----------------------------------------------------------
 
 #    ***** Negative Indexing *****
+
+# Q4: Access list elements using negative indexing
+#    Given: numbers = [10, 20, 30, 40, 50]
+#    Print:
+#    - Last element (index -1)
+#    - Second last element (index -2)
+#    - First element using negative index (index -5)
