@@ -33,3 +33,10 @@ print("Fruits:", fruits, "(Length:", len(fruits), ")")
 print("Mixed:", mixed, "(Length:", len(mixed), ")")
 
 # ----------------------------------------------------------
+
+# Q2: List with range() function
+#    Create lists using range():
+#    - Numbers from 1 to 10
+#    - Even numbers from 0 to 20
+#    - Numbers from 50 to 10 (descending, step -5)
+#    - Multiples of 3 from 3 to 30
