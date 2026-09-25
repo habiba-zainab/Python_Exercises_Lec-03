@@ -42,3 +42,6 @@ print("Mixed:", mixed, "(Length:", len(mixed), ")")
 #    - Multiples of 3 from 3 to 30
 
 print("\n--- Q2: Lists with range() ---")
+
+range1 = list(range(1, 11))
+print("1 to 10:", range1)
