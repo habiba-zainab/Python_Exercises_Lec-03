@@ -178,3 +178,12 @@ print("'grape' not in fruits:", 'grape' not in fruits)
 # ==========================================================
 # PART D:   Nested Lists
 # ==========================================================
+
+# Q8: Nested list operations
+#    Given: matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+#    Access:
+#    - First row
+#    - Element at row 1, column 2 (value 6)
+#    - Last element of last row (value 9)
+#    - Modify element at row 0, column 1 to 99
+
