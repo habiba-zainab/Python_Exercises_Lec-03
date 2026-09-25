@@ -120,3 +120,6 @@ print("\n--- Q5: Modifying Elements ---")
 
 grades = [85, 90, 78, 92, 88]
 print("Original:", grades)
+
+grades[0] = 95
+print("After first change:", grades)
