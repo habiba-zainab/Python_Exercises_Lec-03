@@ -123,3 +123,6 @@ print("Original:", grades)
 
 grades[0] = 95
 print("After first change:", grades)
+
+grades[-1] = 90
+print("After last change:", grades )
