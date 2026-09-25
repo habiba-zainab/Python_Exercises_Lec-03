@@ -156,3 +156,11 @@ list3 = list1 + list2 + list1
 print("list3:", list3)
 
 # ----------------------------------------------------------
+
+# Q7: Membership operators (in, not in)
+#   Given: fruits = ["apple", "mango", "cherry", "date"]
+#   Check:
+#   - Is "mango" in the list?
+#   - Is "banana" in the list?
+#   - Is "grape" not in the list?
+
