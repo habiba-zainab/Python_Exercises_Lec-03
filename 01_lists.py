@@ -45,3 +45,6 @@ print("\n--- Q2: Lists with range() ---")
 
 range1 = list(range(1, 11))
 print("1 to 10:", range1)
+
+range2 = list(range(0, 21, 2))
+print("Even 0-20:", range2)
