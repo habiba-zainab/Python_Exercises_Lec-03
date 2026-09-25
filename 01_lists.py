@@ -64,11 +64,18 @@ print("Multiples of 3:", range4)
 #    ***** Positive Indexing *****
 
 # Q3: Access list elements using positive indexing
-#    Given: colors = ["red", "green", "blue", "yellow",
-#           "purple"]
+#    Given: colors = ["red", "mint green", "blue", 
+#           "burgundy", "maroon"]
 #    Print:
 #    - First color (index 0)
 #    - Third color (index 2)
 #    - Last color (index 4)
 
 print("\n--- Q3: Positive Indexing ---")
+
+colors = ["red", "mint green", "blue", "burgundy", "maroon"]
+
+print("Colors:", colors)
+print("First color:", colors[0])
+print("Third color:", colors[2])
+print("Last color:", colors[4])
