@@ -1,0 +1,9 @@
+"""
+
+===========================================================
+   LECTURE 03 - SET 01 : BASICS OF LISTS
+   Topics : List Basics - Creating, Accessing, & Operations
+   Total Questions :  
+============================================================
+
+"""
