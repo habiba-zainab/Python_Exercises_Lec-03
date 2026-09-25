@@ -107,3 +107,11 @@ print("First element (using -5):", numbers[-5])
 # ==========================================================
 
 #    ***** List Modification *****
+
+# Q5: Modify list elements
+#   Given: grades = [85, 90, 78, 92, 88]
+#   Modify:
+#   - Change first grade to 95
+#   - Change last grade to 90
+#   - Change grade at index 2 to 80
+#   Print list after each change
