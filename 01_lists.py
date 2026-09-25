@@ -48,3 +48,6 @@ print("1 to 10:", range1)
 
 range2 = list(range(0, 21, 2))
 print("Even 0-20:", range2)
+
+range3 = list(range(50, 9, -5))
+print("50 to 10 (step -5):", range3)
