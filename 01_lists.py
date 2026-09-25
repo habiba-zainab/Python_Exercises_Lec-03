@@ -141,3 +141,5 @@ print("After middle change:", grades)
 #   - Concatenate list1 and list2
 #   - Repeat list1 three times
 #   - Create list3 combining list1 + list2 + list1
+
+print("\n--- Q6: Concatenation and repition ---")
