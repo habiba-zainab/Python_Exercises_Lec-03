@@ -70,3 +70,5 @@ print("Multiples of 3:", range4)
 #    - First color (index 0)
 #    - Third color (index 2)
 #    - Last color (index 4)
+
+print("\n--- Q3: Positive Indexing ---")
