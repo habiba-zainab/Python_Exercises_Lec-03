@@ -40,3 +40,5 @@ print("Mixed:", mixed, "(Length:", len(mixed), ")")
 #    - Even numbers from 0 to 20
 #    - Numbers from 50 to 10 (descending, step -5)
 #    - Multiples of 3 from 3 to 30
+
+print("\n--- Q2: Lists with range() ---")
