@@ -92,3 +92,12 @@ print("Last color:", colors[4])
 #    - First element using negative index (index -5)
 
 print("\n--- Q4: Negative Indexing ---")
+
+numbers = [10, 20, 30, 40, 50]
+
+print("Numbers:", numbers)
+print("Last element:", numbers[-1])
+print("Second last element:", numbers[-2])
+print("First element (using -5):", numbers[-5])
+
+# ----------------------------------------------------------
