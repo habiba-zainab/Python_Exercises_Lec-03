@@ -131,3 +131,5 @@ grades[2] = 80
 print("After middle change:", grades)
 
 # ----------------------------------------------------------
+
+#    ***** List Operations *****
