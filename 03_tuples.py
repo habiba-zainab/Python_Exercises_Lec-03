@@ -10,3 +10,12 @@
 # ==========================================================
 # PART A:   Tuple Creation & Operation
 # ==========================================================
+
+# Q1: Create different types of tuples
+#    Create:
+#    - Empty tuple
+#    - Single element tuple (remember comma!)
+#    - Tuple with 5 integers
+#    - Tuple with mixed types
+#    - Nested tuple
+#    Print each with type and length
