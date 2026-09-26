@@ -195,3 +195,6 @@ print("Original:", numbers)
 
 first_5 = numbers[0:5]
 print("First 5:", first_5)
+
+last_5 = numbers[5:]
+print("Last 5:", last_5)
