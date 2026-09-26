@@ -143,3 +143,23 @@ print("Back to tuple:", new_tuple)
 #           tuple_c = (1, 2, 4)
 #           tuple_d = (1, 2)
 #   Compare all pairs and explain comparison logic
+
+print("\n--- Q6: Tuple Comparison ---")
+
+tuple_a = (1, 2, 3)
+tuple_b = (1, 2, 3)
+tuple_c = (1, 2, 4)
+tuple_d = (1, 2)
+
+print("tuple_a:", tuple_a)
+print("tuple_b:", tuple_b)
+print("tuple_c:", tuple_c)
+print("tuple_d:", tuple_d)
+print()
+
+print("tuple_a == tuple_b:", tuple_a == tuple_b)
+print("tuple_a == tuple_c:", tuple_a == tuple_c)
+print("tuple_a < tuple_c:", tuple_a < tuple_c, "(third element 3 < 4)")
+print("tuple_a > tuple_d:", tuple_a > tuple_d, "(longer tuple)")
+
+# ----------------------------------------------------------
