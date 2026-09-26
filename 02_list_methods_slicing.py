@@ -100,3 +100,5 @@ print("After pop(1):", numbers, "(removed:", str(removed2) + ")")
 #    - Clear the copy
 #    - Show original still has data
 
+print("\n--- Q4: copy() & clear() ---")
+
