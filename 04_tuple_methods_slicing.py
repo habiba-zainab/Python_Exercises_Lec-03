@@ -35,4 +35,13 @@ print("Count of 10:", numbers.count(10))
 #    Find:
 #    - Index of first 'c'
 #    - Index of 'c' starting from position 3
-#    - Try to find 'z' (handle error)
+
+print("\n--- Q2: index() method ---")
+
+letters = ('a', 'b', 'c', 'd', 'c', 'e', 'c')
+
+print("Tuple:", letters)
+print("First 'c' at index:", letters.index('c'))
+print("'c' from index 3:", letters.index('c', 3))
+
+# ----------------------------------------------------------
