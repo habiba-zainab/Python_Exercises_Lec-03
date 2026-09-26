@@ -52,3 +52,6 @@ tuple2 = (4, 5, 6)
 
 print("tuple1:", tuple1)
 print("tuple2:", tuple2)
+
+concatenated = tuple1 + tuple2
+print("Concatenated:", concatenated)
