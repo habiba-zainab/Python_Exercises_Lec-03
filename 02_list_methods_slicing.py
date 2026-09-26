@@ -54,3 +54,5 @@ list2 = [4, 5, 6]
 
 copy1 = list1.copy()
 copy2 = list1.copy()
+
+print("Original:", list1)
