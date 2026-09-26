@@ -60,3 +60,7 @@ print("Original:", list1)
 copy1.append(list2)
 print("After append([4, 5, 6]):", copy1)
 
+copy2.extend(list2)
+print("After extend([4, 5, 6]):", copy2)
+
+# ----------------------------------------------------------
