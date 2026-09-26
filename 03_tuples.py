@@ -55,3 +55,6 @@ print("tuple2:", tuple2)
 
 concatenated = tuple1 + tuple2
 print("Concatenated:", concatenated)
+
+repeated = tuple1 * 3
+print("Repeated:", repeated)
