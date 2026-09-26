@@ -76,3 +76,14 @@ print("Length:", len(concatenated))
 #    - Last element (index -1)
 #    - Second last (index -2)
 
+print("\n--- Q3: Accessing Elements ---")
+
+coordinates = (10, 20, 30, 40, 50)
+
+print("Tuple:", coordinates)
+print("First:", coordinates[0])
+print("Third:", coordinates[2])
+print("Last:", coordinates[-1])
+print("Second last:", coordinates[-2])
+
+# ----------------------------------------------------------
