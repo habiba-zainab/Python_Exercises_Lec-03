@@ -46,3 +46,9 @@ print("Nested:", nested, "(Length:", len(nested), ")")
 #    - Find length of concatenated tuple
 
 print("\n--- Q2: Tuple Operations ---")
+
+tuple1 = (1, 2, 3)
+tuple2 = (4, 5, 6)
+
+print("tuple1:", tuple1)
+print("tuple2:", tuple2)
