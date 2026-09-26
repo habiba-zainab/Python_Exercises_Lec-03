@@ -80,3 +80,6 @@ print("\n--- remove() & pop() ---")
 
 numbers = [10, 20, 30, 40, 50, 30]
 print("Original:", numbers)
+
+numbers.remove(30)
+print("After remove(30):", numbers)
