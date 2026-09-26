@@ -36,3 +36,5 @@ print("After insert 'mango' at 1:", fruits)
 
 fruits.append("orange")
 print("After append 'orange':", fruits)
+
+# ----------------------------------------------------------
