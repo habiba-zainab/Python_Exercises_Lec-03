@@ -201,3 +201,8 @@ print("Last 5:", last_5)
 
 index_2_7 = numbers[2:7]
 print("Index 2-7:", index_2_7)
+
+middle_4 = numbers[3:7]
+print("Middle 4:", middle_4)
+
+# ----------------------------------------------------------
