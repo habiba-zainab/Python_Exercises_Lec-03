@@ -49,3 +49,11 @@ print("'c' from index 3:", letters.index('c', 3))
 # ==========================================================
 #                TUPLE SLICING
 # ==========================================================
+
+# Q3:  Basic tuple slicing
+#    Given: nums = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
+#    Extract:
+#    - First 5 elements [0:5]
+#    - Last 5 elements [5:]
+#    - Middle elements [3:7]
+#    - Every element [:]
