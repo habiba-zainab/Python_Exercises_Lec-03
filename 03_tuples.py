@@ -67,3 +67,12 @@ print("Length:", len(concatenated))
 # ==========================================================
 # PART B:   Tuple Indexing & Access
 # ==========================================================
+
+# Q3: Access tuple elements
+#    Given:  coordinates = (10, 20, 30, 40, 50)
+#    Access:
+#    - First element (index 0)
+#    - Third element (index 2)
+#    - Last element (index -1)
+#    - Second last (index -2)
+
