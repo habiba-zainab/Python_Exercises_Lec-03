@@ -237,3 +237,12 @@ print("Every 2nd reversed:", every_2nd_reversed)
 # ==========================================================
 # PART E:   Negative Slicing
 # ==========================================================
+
+# Q9: Negative slicing
+#    Given: letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
+#    Extract:
+#    - Last 3 elements [-3:]
+#    - All except last 2 [:-2]
+#    - Elements from -5 to -2
+#    - Everything in reverse [::-1]
+
