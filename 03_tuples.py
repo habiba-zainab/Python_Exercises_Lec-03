@@ -44,3 +44,5 @@ print("Nested:", nested, "(Length:", len(nested), ")")
 #    - Reception (tuple1 * 3)
 #    - Check if 3 in tuple1
 #    - Find length of concatenated tuple
+
+print("\n--- Q2: Tuple Operations ---")
