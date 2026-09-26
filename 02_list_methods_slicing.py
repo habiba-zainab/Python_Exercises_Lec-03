@@ -56,3 +56,7 @@ copy1 = list1.copy()
 copy2 = list1.copy()
 
 print("Original:", list1)
+
+copy1.append(list2)
+print("After append([4, 5, 6]):", copy1)
+
