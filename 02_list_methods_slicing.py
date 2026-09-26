@@ -225,3 +225,6 @@ print("Every 2nd:", every_2nd)
 
 every_3rd = nums[::3]
 print("Every 3rd:", every_3rd)
+
+odd_positions = nums[1::2]
+print("Odd positions:", odd_positions)
