@@ -102,3 +102,5 @@ print("After pop(1):", numbers, "(removed:", str(removed2) + ")")
 
 print("\n--- Q4: copy() & clear() ---")
 
+original = [1, 2, 3, 4, 5]
+print("Original:", original)
