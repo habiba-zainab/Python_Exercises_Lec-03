@@ -228,3 +228,8 @@ print("Every 3rd:", every_3rd)
 
 odd_positions = nums[1::2]
 print("Odd positions:", odd_positions)
+
+every_2nd_reversed = nums[::-2]
+print("Every 2nd reversed:", every_2nd_reversed)
+
+# ----------------------------------------------------------
