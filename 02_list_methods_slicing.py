@@ -246,3 +246,21 @@ print("Every 2nd reversed:", every_2nd_reversed)
 #    - Elements from -5 to -2
 #    - Everything in reverse [::-1]
 
+print("\n--- Q9: Negative Slicing ---")
+
+letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
+print("Original:", letters)
+
+last_3 = letters[-3:]
+print("Last 3:", last_3)
+
+except_last_2 = letters[:-2]
+print("Except last 2:", except_last_2)
+
+neg_5_to_2 = letters[-5:-2]
+print("-5 to -2:", neg_5_to_2)
+
+reversed_list = letters[::-1]
+print("Reversed:", reversed_list)
+
+# ----------------------------------------------------------
