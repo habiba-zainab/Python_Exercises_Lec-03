@@ -156,3 +156,16 @@ print("Sorted descending:", nums)
 
 print("\n--- Q6: index() & count() ---")
 
+items = ['a', 'b', 'c', 'd', 'c', 'e', 'c', 'f']
+print("Items:", items)
+
+first_c = items.index('c')
+print("First 'c' at index:", first_c)
+
+count_c = items.count('c')
+print("Count of 'c':", count_c)
+
+c_from_3 = items.index('c', 3)
+print("'c' from index 3:", c_from_3)
+
+# ----------------------------------------------------------
