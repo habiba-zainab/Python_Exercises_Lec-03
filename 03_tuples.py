@@ -58,3 +58,8 @@ print("Concatenated:", concatenated)
 
 repeated = tuple1 * 3
 print("Repeated:", repeated)
+
+print("3 in tuple1:", 3 in tuple1)
+print("Length:", len(concatenated))
+
+# ----------------------------------------------------------
