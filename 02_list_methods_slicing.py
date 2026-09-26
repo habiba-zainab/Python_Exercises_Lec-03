@@ -22,3 +22,5 @@
 #    - Insert "mango" at index 1
 #    - Append "orange"
 #    Print list after each operation
+
+print("\n--- Q1: append() & insert() ---")
