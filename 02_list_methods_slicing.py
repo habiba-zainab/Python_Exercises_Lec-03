@@ -15,3 +15,10 @@
 # ==========================================================
 # PART A:   List Adding Methods
 # ==========================================================
+
+# Q1: append() and insert() methods
+#    Start with: fruits = ["apple", "banana"]
+#    - Append "cherry"
+#    - Insert "mango" at index 1
+#    - Append "orange"
+#    Print list after each operation
