@@ -121,3 +121,11 @@ print("Original still intact:", original)
 # ==========================================================
 # PART C:   List Sorting & Searching Methods
 # ==========================================================
+
+#    ***** Sorting Method *****
+
+# Q5: sort() and reverse() methods
+#    Given: nums = [64, 34, 25, 12, 22, 11, 90]
+#    - Sort in ascending order
+#    - Reverse the sorted list
+#    - Sort in descending order using sort(reverse=True)
