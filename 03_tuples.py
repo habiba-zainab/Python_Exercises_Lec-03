@@ -117,3 +117,22 @@ print("Middle:", matrix[1][1])
 #    - Sort the list
 #    - Add new element to list
 #    - Convert back to tuple
+
+print("\n--- Q5: Tuple ↔ List ---")
+
+my_tuple = (5, 2, 8, 1, 9)
+print("Original tuple:", my_tuple)
+
+my_list = list(my_tuple)
+print("As list:", my_list)
+
+my_list.sort()
+print("Sorted list:", my_list)
+
+my_list.append(10)
+print("After adding 10:", my_list)
+
+new_tuple = tuple(my_list)
+print("Back to tuple:", new_tuple)
+
+# ----------------------------------------------------------
