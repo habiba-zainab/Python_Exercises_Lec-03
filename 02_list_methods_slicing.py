@@ -179,3 +179,11 @@ print("'c' from index 3:", c_from_3)
 # ==========================================================
 
 #    ***** Basic List Slicing *****
+
+# Q7: Basic list slicing
+#    Given: numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+#    Extract:
+#    - First 5 elements [0:5]
+#    - Last 5 elements [5:]
+#    - Elements from index 2 to 7 [2:7]
+#    - Middle 4 elements
