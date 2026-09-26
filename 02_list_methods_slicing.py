@@ -145,3 +145,12 @@ nums.sort(reverse=True)
 print("Sorted descending:", nums)
 
 # ----------------------------------------------------------
+
+#    ***** Searching Method *****
+
+# Q6: index() and count() methods
+#    Given: items = ['a', 'b', 'c', 'd', 'c', 'e', 'c', 'f']
+#    - Find index of first 'c'
+#    - Count how many times 'c' appears
+#    - Find index of 'c' starting from position 3
+
