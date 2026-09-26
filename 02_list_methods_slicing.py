@@ -46,3 +46,6 @@ print("After append 'orange':", fruits)
 #    On first copy: use append(list2)
 #    On second copy: use extend(list2)
 #    Compare results
+
+print("\n--- Q2: extend() vs append() ---")
+
