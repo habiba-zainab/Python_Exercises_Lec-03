@@ -49,3 +49,8 @@ print("After append 'orange':", fruits)
 
 print("\n--- Q2: extend() vs append() ---")
 
+list1 = [1, 2, 3]
+list2 = [4, 5, 6]
+
+copy1 = list1.copy()
+copy2 = list1.copy()
