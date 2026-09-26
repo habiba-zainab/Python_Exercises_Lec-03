@@ -89,3 +89,5 @@ print("After pop():", numbers, "(removed:", str(removed1) + ")")
 
 removed2 = numbers.pop(1)
 print("After pop(1):", numbers, "(removed:", str(removed2) + ")")
+
+# ----------------------------------------------------------
