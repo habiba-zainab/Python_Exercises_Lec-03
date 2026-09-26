@@ -137,3 +137,6 @@ print("Original:", nums)
 
 nums.sort()
 print("Sorting ascending:", nums)
+
+nums.reverse()
+print("Reversed:", nums)
