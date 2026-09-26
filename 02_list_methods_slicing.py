@@ -38,3 +38,11 @@ fruits.append("orange")
 print("After append 'orange':", fruits)
 
 # ----------------------------------------------------------
+
+# Q2: extend() vs append() with lists
+#    Given:   list1 = [1, 2, 3]
+#             list2 = [4, 5, 6]
+#    Create two copies of list1
+#    On first copy: use append(list2)
+#    On second copy: use extend(list2)
+#    Compare results
