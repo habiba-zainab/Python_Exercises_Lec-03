@@ -30,3 +30,7 @@ print("Start:", fruits)
 
 fruits.append("cherry")
 print("After append 'cherry':", fruits)
+
+fruits.insert(1, "mango")
+print("After insert 'mango' at 1:", fruits)
+
