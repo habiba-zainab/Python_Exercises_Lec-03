@@ -85,3 +85,9 @@ print("All scores:", scores)
 first_5 = scores[:5]
 print("First 5:", first_5)
 print("Min:", min(first_5), ", Max:", max(first_5))
+
+last_5 = scores[-5:]
+print("Last 5:", last_5)
+print("Min:", min(last_5), ", Max:", max(last_5))
+
+# ----------------------------------------------------------
