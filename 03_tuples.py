@@ -95,3 +95,14 @@ print("Second last:", coordinates[-2])
 #    - Element at [1][2] (value 6)
 #    - Last element of last tuple (value 9)
 #    - Middle element (value 5)
+
+print("\n--- Q4: Nested Tuples ---")
+
+matrix = ((1, 2, 3), (4, 5, 6), (7, 8, 9))
+print("Matrix:", matrix)
+print("First tuple:", matrix[0])
+print("Element [1][2]:", matrix[1][2])
+print("Last element:", matrix[-1][-1])
+print("Middle:", matrix[1][1])
+
+# ----------------------------------------------------------
