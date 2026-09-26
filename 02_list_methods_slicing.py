@@ -282,3 +282,10 @@ print("Reversed:", reversed1)
 print("Is palindrome:", list1 == reversed1)
 
 print()
+
+list2 = [1, 2, 3, 4, 5]
+print("List 2:", list2)
+
+reversed2 = list2[::-1]
+print("Reversed:", reversed2)
+print("Is palindrome:", list2 == reversed2)
