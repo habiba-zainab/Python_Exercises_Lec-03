@@ -154,3 +154,5 @@ print("Sorted descending:", nums)
 #    - Count how many times 'c' appears
 #    - Find index of 'c' starting from position 3
 
+print("\n--- Q6: index() & count() ---")
+
