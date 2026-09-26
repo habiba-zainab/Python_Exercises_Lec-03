@@ -69,3 +69,10 @@ print("Middle:", nums[3:7])
 print("All:", nums[:])
 
 # ----------------------------------------------------------
+
+# Q4:  Find min and max in slices
+#    Given: scores = (78, 92, 85, 88, 76, 95, 89, 91, 82, 87)
+#    Find:
+#    - Min and max in first 5 scores
+#    - Min and max in last 5 scores
+#    - Overall min and max
