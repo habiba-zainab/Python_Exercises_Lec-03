@@ -222,3 +222,6 @@ print("Original:", nums)
 
 every_2nd = nums[::2]
 print("Every 2nd:", every_2nd)
+
+every_3rd = nums[::3]
+print("Every 3rd:", every_3rd)
