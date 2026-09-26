@@ -274,3 +274,11 @@ print("Reversed:", reversed_list)
 
 print("\n--- Q10: Palindrome Checker ---")
 
+list1 = [1, 2, 3, 2, 1]
+print("List 1:", list1)
+
+reversed1 = list1[::-1]
+print("Reversed:", reversed1)
+print("Is palindrome:", list1 == reversed1)
+
+print()
