@@ -268,5 +268,9 @@ print("Reversed:", reversed_list)
 # Q10: Advanced slicing - palindrome list checker
 #     Given: list1 = [1, 2, 3, 2, 1]
 #            list2 = [1, 2, 3, 4, 5]
-#     Check if lists are palindromes by comparing with reversed version
+#     Check if lists are palindromes by comparing with
+#              reversed version
 #     Use slicing to reverse
+
+print("\n--- Q10: Palindrome Checker ---")
+
