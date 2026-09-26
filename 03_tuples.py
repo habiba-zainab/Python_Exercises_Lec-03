@@ -136,3 +136,10 @@ new_tuple = tuple(my_list)
 print("Back to tuple:", new_tuple)
 
 # ----------------------------------------------------------
+
+# Q6: Compare tuples
+#    Given: tuple_a = (1, 2, 3)
+#           tuple_b = (1, 2, 3)
+#           tuple_c = (1, 2, 4)
+#           tuple_d = (1, 2)
+#   Compare all pairs and explain comparison logic
