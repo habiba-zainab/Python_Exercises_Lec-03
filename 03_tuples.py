@@ -19,3 +19,6 @@
 #    - Tuple with mixed types
 #    - Nested tuple
 #    Print each with type and length
+
+print("\n--- Q1: Creating Tuples ---")
+
