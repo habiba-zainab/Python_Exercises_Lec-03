@@ -83,3 +83,9 @@ print("Original:", numbers)
 
 numbers.remove(30)
 print("After remove(30):", numbers)
+
+removed1 = numbers.pop()
+print("After pop():", numbers, "(removed:", str(removed1) + ")")
+
+removed2 = numbers.pop(1)
+print("After pop(1):", numbers, "(removed:", str(removed2) + ")")
