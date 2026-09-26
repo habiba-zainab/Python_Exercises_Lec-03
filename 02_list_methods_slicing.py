@@ -78,3 +78,5 @@ print("After extend([4, 5, 6]):", copy2)
 
 print("\n--- remove() & pop() ---")
 
+numbers = [10, 20, 30, 40, 50, 30]
+print("Original:", numbers)
