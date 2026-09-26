@@ -91,3 +91,12 @@ removed2 = numbers.pop(1)
 print("After pop(1):", numbers, "(removed:", str(removed2) + ")")
 
 # ----------------------------------------------------------
+
+# Q4: copy() and clear() methods
+#    Given: original = [1, 2, 3, 4, 5]
+#    - Create a copy using copy()
+#    - Modify the copy
+#    - Show original is unchanged
+#    - Clear the copy
+#    - Show original still has data
+
