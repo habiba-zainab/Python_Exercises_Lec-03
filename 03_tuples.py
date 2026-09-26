@@ -22,3 +22,16 @@
 
 print("\n--- Q1: Creating Tuples ---")
 
+empty = ()
+single = (5,)
+integers = (1, 2, 3, 4, 5)
+mixed = (1, 'hello', 25.5, True)
+nested = ((1, 2), (3, 4), (5, 6))
+
+print("Empty:", empty, "(Type: tuple, Length:", len(empty), ")") 
+print("Single:", single, "(Type: tuple, Length:", len(single), ")") 
+print("Integers:", integers, "(Length:", len(integers), ")") 
+print("Mixed:", mixed, "(Length:", len(mixed), ")") 
+print("Nested:", nested, "(Length:", len(nested), ")") 
+
+# ----------------------------------------------------------
