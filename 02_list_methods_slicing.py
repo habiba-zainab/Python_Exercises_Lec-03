@@ -75,3 +75,6 @@ print("After extend([4, 5, 6]):", copy2)
 #    - Pop last element 
 #    - Pop element at index 1
 #    Print list after each operation
+
+print("\n--- remove() & pop() ---")
+
