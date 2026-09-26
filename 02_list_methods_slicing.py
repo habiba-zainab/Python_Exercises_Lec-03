@@ -129,3 +129,5 @@ print("Original still intact:", original)
 #    - Sort in ascending order
 #    - Reverse the sorted list
 #    - Sort in descending order using sort(reverse=True)
+
+print("\n--- Q5: sort() & reverse() ---")
