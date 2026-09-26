@@ -87,3 +87,11 @@ print("Last:", coordinates[-1])
 print("Second last:", coordinates[-2])
 
 # ----------------------------------------------------------
+
+# Q4: Nested tuple access
+#    Given:  matrix = ((1, 2, 3), (4, 5, 6), (7, 8, 9))
+#    Access:
+#    - First inner tuple
+#    - Element at [1][2] (value 6)
+#    - Last element of last tuple (value 9)
+#    - Middle element (value 5)
