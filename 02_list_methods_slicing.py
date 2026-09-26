@@ -219,3 +219,6 @@ print("\n--- Q8: Step Slicing ---")
 
 nums = list(range(0, 21))
 print("Original:", nums)
+
+every_2nd = nums[::2]
+print("Every 2nd:", every_2nd)
