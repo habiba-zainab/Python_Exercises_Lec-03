@@ -111,3 +111,9 @@ print("Copy:", copy_list)
 copy_list[1] = 999
 print("Modified copy:", copy_list)
 print("Original unchanged:", original)
+
+copy_list.clear()
+print("After clear copy:", copy_list)
+print("Original still intact:", original)
+
+# ----------------------------------------------------------
