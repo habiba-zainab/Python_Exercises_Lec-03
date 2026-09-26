@@ -35,3 +35,12 @@ print("Mixed:", mixed, "(Length:", len(mixed), ")")
 print("Nested:", nested, "(Length:", len(nested), ")") 
 
 # ----------------------------------------------------------
+
+# Q2: Tuple operations
+#    Given: tuple1 = (1, 2, 3)
+#           tuple2 = (4, 5, 6)
+#    Perform:
+#    - Concatenation (tuple1 + tuple2)
+#    - Reception (tuple1 * 3)
+#    - Check if 3 in tuple1
+#    - Find length of concatenated tuple
