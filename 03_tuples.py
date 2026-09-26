@@ -110,3 +110,10 @@ print("Middle:", matrix[1][1])
 # ==========================================================
 # PART C:   Tuple Conversions & Comparisons
 # ==========================================================
+
+# Q5: Convert between tuple and list
+#    Given:  my_tuple = (5, 2, 8, 1, 9)
+#    - Convert to list
+#    - Sort the list
+#    - Add new element to list
+#    - Convert back to tuple
