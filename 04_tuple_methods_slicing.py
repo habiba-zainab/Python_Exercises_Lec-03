@@ -76,3 +76,12 @@ print("All:", nums[:])
 #    - Min and max in first 5 scores
 #    - Min and max in last 5 scores
 #    - Overall min and max
+
+print("\n--- Q4: Min/Max in Slices ---")
+
+scores = (78, 92, 85, 88, 76, 95, 89, 91, 82, 87)
+print("All scores:", scores)
+
+first_5 = scores[:5]
+print("First 5:", first_5)
+print("Min:", min(first_5), ", Max:", max(first_5))
