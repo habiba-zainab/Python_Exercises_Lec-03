@@ -29,3 +29,10 @@ print("Count of 5:", numbers.count(5))
 print("Count of 10:", numbers.count(10))
 
 # ----------------------------------------------------------
+
+# Q2:  index() method
+#    Given: letters = ('a', 'b', 'c', 'd', 'c', 'e', 'c')
+#    Find:
+#    - Index of first 'c'
+#    - Index of 'c' starting from position 3
+#    - Try to find 'z' (handle error)
