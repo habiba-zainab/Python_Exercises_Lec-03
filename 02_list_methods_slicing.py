@@ -289,3 +289,5 @@ print("List 2:", list2)
 reversed2 = list2[::-1]
 print("Reversed:", reversed2)
 print("Is palindrome:", list2 == reversed2)
+
+# ----------------------------------------------------------
