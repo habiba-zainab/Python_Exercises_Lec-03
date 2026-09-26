@@ -198,3 +198,6 @@ print("First 5:", first_5)
 
 last_5 = numbers[5:]
 print("Last 5:", last_5)
+
+index_2_7 = numbers[2:7]
+print("Index 2-7:", index_2_7)
