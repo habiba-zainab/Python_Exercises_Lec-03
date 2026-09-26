@@ -214,3 +214,8 @@ print("Middle 4:", middle_4)
 #    - Every 3rd element [::3]
 #    - Odd positioned elements [1::2]
 #    - Every 2nd element in reverse [::-2]
+
+print("\n--- Q8: Step Slicing ---")
+
+nums = list(range(0, 21))
+print("Original:", nums)
