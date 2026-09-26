@@ -68,3 +68,10 @@ print("After extend([4, 5, 6]):", copy2)
 # ==========================================================
 # PART B:   List Removing Methods
 # ==========================================================
+
+# Q3: remove() and pop() methods
+#    Given: numbers = [10, 20, 30, 40, 50, 30]
+#    - Remove first occurrence of 30
+#    - Pop last element 
+#    - Pop element at index 1
+#    Print list after each operation
