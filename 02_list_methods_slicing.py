@@ -104,3 +104,6 @@ print("\n--- Q4: copy() & clear() ---")
 
 original = [1, 2, 3, 4, 5]
 print("Original:", original)
+
+copy_list = original.copy()
+print("Copy:", copy_list)
