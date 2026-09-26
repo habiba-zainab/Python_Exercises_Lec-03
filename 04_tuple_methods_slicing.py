@@ -57,3 +57,15 @@ print("'c' from index 3:", letters.index('c', 3))
 #    - Last 5 elements [5:]
 #    - Middle elements [3:7]
 #    - Every element [:]
+
+print("\n--- Q3; Basic Slicing ---")
+
+nums = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
+
+print("Original:", nums)
+print("First 5:", nums[0:5])
+print("Last 5:", nums[5:])
+print("Middle:", nums[3:7])
+print("All:", nums[:])
+
+# ----------------------------------------------------------
