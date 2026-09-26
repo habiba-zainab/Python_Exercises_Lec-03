@@ -24,3 +24,6 @@
 #    Print list after each operation
 
 print("\n--- Q1: append() & insert() ---")
+
+fruits = ["apple", "banana"]
+print("Start:", fruits)
