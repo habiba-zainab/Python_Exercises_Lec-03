@@ -134,3 +134,6 @@ print("\n--- Q5: sort() & reverse() ---")
 
 nums = [64, 34, 25, 12, 22, 11, 90]
 print("Original:", nums)
+
+nums.sort()
+print("Sorting ascending:", nums)
