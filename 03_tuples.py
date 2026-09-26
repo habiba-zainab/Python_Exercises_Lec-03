@@ -1,0 +1,9 @@
+"""
+
+===========================================================
+   LECTURE 03 - SET 03 : BASICS OF TUPLES
+   Topics : Tuples Basics - Creating, Accessing & Operations
+   Total Questions :  
+============================================================
+
+"""
