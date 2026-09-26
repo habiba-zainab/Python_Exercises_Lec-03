@@ -131,3 +131,6 @@ print("Original still intact:", original)
 #    - Sort in descending order using sort(reverse=True)
 
 print("\n--- Q5: sort() & reverse() ---")
+
+nums = [64, 34, 25, 12, 22, 11, 90]
+print("Original:", nums)
