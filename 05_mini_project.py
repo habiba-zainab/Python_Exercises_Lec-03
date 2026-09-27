@@ -66,3 +66,7 @@ print("\n--- Analysis ---")
 # Slicing
 print("Top 3 Grades:", grades[:3])
 print("Bottom 2 Grades:", grades[-2:])
+
+# Search
+print("Count of 90:", grades.count(90))
+print("Index of 92:", grades.index(92))
