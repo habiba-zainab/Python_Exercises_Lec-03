@@ -57,3 +57,6 @@ print("Sorted Grades:", grades)
 sorted_student = sorted(students, key = lambda x: x[1], reverse = True)
 print("Top Student:", sorted_student[0][0], "-", sorted_student[0][1])
 
+# ----------------------------------------------------------
+#    STEP 04:     Analysis
+# ----------------------------------------------------------
