@@ -31,3 +31,10 @@ print("Average:", sum(grades) / len(grades))
 # ----------------------------------------------------------
 
 print("\n--- Student Records ---")
+
+# Use tuples for student data (name, grade)
+students = [
+    ("Alice", 92)
+    ("Bob", 85)
+    ("Charlie", 90)
+]
