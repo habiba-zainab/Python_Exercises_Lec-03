@@ -116,3 +116,17 @@ An interactive program that manages student grades using lists and tuples with v
 * Statistical Calculations
 
 ---
+
+### Current Lecture Status
+
+- [x] **Lecture 01** — Python Fundamentals ✅ COMPLETED
+- [x] **Lecture 02** — Strings & Conditionals ✅ COMPLETED
+- [x] **Lecture 03** — Lists & Tuples ✅ COMPLETED
+- [ ] **Lecture 04** — Happening soon
+- [ ] **Lecture 05** — Happening soon
+- [ ] **Lecture 06** — Happening soon
+- [ ] **Lecture 07** — Happening soon
+- [ ] **Lecture 08** — Happening soon
+- [ ] **Lecture 09** — Happening soon
+
+---
