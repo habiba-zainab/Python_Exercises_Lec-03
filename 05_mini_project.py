@@ -60,3 +60,9 @@ print("Top Student:", sorted_student[0][0], "-", sorted_student[0][1])
 # ----------------------------------------------------------
 #    STEP 04:     Analysis
 # ----------------------------------------------------------
+
+print("\n--- Analysis ---")
+
+# Slicing
+print("Top 3 Grades:", grades[:3])
+print("Bottom 2 Grades:", grades[-2:])
