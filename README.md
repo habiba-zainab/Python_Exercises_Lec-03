@@ -55,3 +55,17 @@ This repository contains my practice work for Lecture 03, focusing on working wi
 | [`05_mini_project.py`](05_mini_project.py) | Student Grade Manager | Mini Project |
 
 ---
+
+## 📂 Repository Structure
+
+```text
+lecture-03/
+│
+├── 📝 01_list.py              # List Fundamentals & Operations
+├── 📝 02_list_methods_slicing.py     # List Methods & Slicing Techniques
+├── 📝 03_tuple.py             # Tuple Fundamentals & Properties
+├── 📝 04_tuple_methods_slicing.py    # Tuple Methods & Slicing
+└── 🚀 05_mini_project.py             # 📊 Student Grade Manager
+```
+
+---
