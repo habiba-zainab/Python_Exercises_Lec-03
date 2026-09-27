@@ -69,3 +69,17 @@ lecture-03/
 ```
 
 ---
+
+## 🎯 Learning Objectives
+
+By completing this lecture, I have learned to:
+
+* ✅ Create and manipulate lists effectively
+* ✅ Use list methods for adding, removing, and organizing data
+* ✅ Apply slicing techniques on lists
+* ✅ Understand when to use mutable vs. immutable structures
+* ✅ Work with tuples for fixed data
+* ✅ Perform operations on both lists and tuples
+* ✅ Build practical applications using data structures
+
+---
