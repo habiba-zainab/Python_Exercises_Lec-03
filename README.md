@@ -28,3 +28,10 @@ This repository contains my practice work for Lecture 03, focusing on working wi
 * **Sorting and reversing:** `sort()`, `reverse()`, `sorted()`
 * List slicing techniques
 * Copying lists
+
+### ✅ Tuple Basics
+* Tuple creation 
+* Accessing tuple elements
+* Tuple immutability
+* Single-element tuples
+* Tuple concatenation
