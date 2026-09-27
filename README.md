@@ -7,3 +7,8 @@ Practical implementation of Python sequence data structures, covering list and t
 A personal Python learning repository documenting my progress through **Lecture 03: Lists & Tuples**. This collection includes structured exercises, data structure manipulation practice, and an interactive student grade manager project.
 
 ---
+
+## 📚 Overview
+This repository contains my practice work for Lecture 03, focusing on working with lists and tuples, two fundamental data structures in Python.
+
+---
