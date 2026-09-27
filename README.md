@@ -83,3 +83,16 @@ By completing this lecture, I have learned to:
 * ✅ Build practical applications using data structures
 
 ---
+
+## 💡 Practice Approach
+
+My learning methodology focuses on:
+
+* **Understanding core concepts** before jumping into code
+* **Attempting problems independently** to build problem-solving skills
+* **Running & testing programs** regularly in the terminal
+* **Experimenting by modifying values and inputs** to observe behavior
+* **Debugging errors** step-by-step to understand root causes
+* **Documenting learnings and observations** within clean comments and code documentation
+
+---
