@@ -96,3 +96,10 @@ My learning methodology focuses on:
 * **Documenting learnings and observations** within clean comments and code documentation
 
 ---
+
+## 🚀 Mini Project
+
+### 📊 Student Grade Manager (`05_mini_project.py`)
+
+An interactive program that manages student grades using lists and tuples with various data operations.
+
