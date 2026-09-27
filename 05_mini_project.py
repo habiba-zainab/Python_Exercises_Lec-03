@@ -26,3 +26,6 @@ print("Highest:", max(grades))
 print("Lowest:", min(grades))
 print("Average:", sum(grades) / len(grades))
 
+# ----------------------------------------------------------
+#    STEP 02:     Student Records
+# ----------------------------------------------------------
