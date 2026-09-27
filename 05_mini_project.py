@@ -16,3 +16,7 @@
 # ----------------------------------------------------------
 
 print("\n--- Grade List ---")
+
+# Create and add grades using list
+grades = [85, 92, 78, 90, 88]
+
