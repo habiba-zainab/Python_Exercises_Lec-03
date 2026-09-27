@@ -43,3 +43,15 @@ This repository contains my practice work for Lecture 03, focusing on working wi
 * When to use tuples vs. lists
 
 ---
+
+## 📂 Practiced Files
+
+| File | Concepts Practiced | Questions |
+| ---- | ------------------ | --------- |
+| [`01_list.py`](./01_list.py) | List Basics - Creating, Accessing, & Operations  | 08 |
+| [`02_list_methods_slicing.py`](./02_list_methods_slicing.py) | List Methods & Slicing(Positive, Negative, Step) | 10 |
+| [`03_tuples.py`](./03_tuples.py) | Tuples Basics - Creating, Accessing & Operations | 06 |
+| [`04_list_methods_slicing.py`](04_list_methods_slicing.py) | Tuples Methods & Slicing(+VE, -VE, Steps) | 04 |
+| [`05_mini_project.py`](05_mini_project.py) | Student Grade Manager | Mini Project |
+
+---
