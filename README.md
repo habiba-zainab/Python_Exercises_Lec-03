@@ -12,3 +12,5 @@ A personal Python learning repository documenting my progress through **Lecture 
 This repository contains my practice work for Lecture 03, focusing on working with lists and tuples, two fundamental data structures in Python.
 
 ---
+
+## 📖 Topics Covered
