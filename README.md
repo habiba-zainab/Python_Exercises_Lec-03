@@ -35,3 +35,11 @@ This repository contains my practice work for Lecture 03, focusing on working wi
 * Tuple immutability
 * Single-element tuples
 * Tuple concatenation
+
+### ✅ Tuple Methods & Slicing
+* `count()`and `index()` methods
+* Tuple slicing
+* Converting between lists and tuples
+* When to use tuples vs. lists
+
+---
