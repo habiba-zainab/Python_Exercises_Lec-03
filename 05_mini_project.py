@@ -52,3 +52,8 @@ print("\n--- Top Student ---")
 # Sort grades
 grades.sort(reverse = True)
 print("Sorted Grades:", grades)
+
+# Find top student
+sorted_student = sorted(students, key = lambda x: x[1], reverse = True)
+print("Top Student:", sorted_student[0][0], "-", sorted_student[0][1])
+
