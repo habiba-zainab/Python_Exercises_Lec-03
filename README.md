@@ -109,3 +109,10 @@ An interactive program that manages student grades using lists and tuples with v
 * Find highest and lowest scores
 * Display grade satistics
 * Sort and organize data
+
+#### 💡 Concepts Applied
+* List & Tuple Operations
+* Data Manipulation & Sorting
+* Statistical Calculations
+
+---
