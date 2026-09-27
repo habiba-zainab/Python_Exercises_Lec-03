@@ -46,3 +46,9 @@ for student in students:
 # ----------------------------------------------------------
 #    STEP 03:     Top Student
 # ----------------------------------------------------------
+
+print("\n--- Top Student ---")
+
+# Sort grades
+grades.sort(reverse = True)
+print("Sorted Grades:", grades)
