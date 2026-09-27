@@ -103,3 +103,9 @@ My learning methodology focuses on:
 
 An interactive program that manages student grades using lists and tuples with various data operations.
 
+#### ✨ Key Features
+* Add and store student grades
+* Calculate average
+* Find highest and lowest scores
+* Display grade satistics
+* Sort and organize data
