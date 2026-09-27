@@ -14,3 +14,10 @@ This repository contains my practice work for Lecture 03, focusing on working wi
 ---
 
 ## 📖 Topics Covered
+
+### ✅ List Basics
+* List creation and initialization 
+* Accessing list elements
+* List concatenation and repetition
+* Nested lists
+* List mutability
