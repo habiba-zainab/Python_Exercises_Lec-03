@@ -42,3 +42,7 @@ students = [
 print("All Students:")
 for student in students:
     print(student[0]) + ":", student[1]
+
+# ----------------------------------------------------------
+#    STEP 03:     Top Student
+# ----------------------------------------------------------
