@@ -38,3 +38,7 @@ students = [
     ("Bob", 85)
     ("Charlie", 90)
 ]
+
+print("All Students:")
+for student in students:
+    print(student[0]) + ":", student[1]
