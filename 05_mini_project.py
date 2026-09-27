@@ -20,3 +20,9 @@ print("\n--- Grade List ---")
 # Create and add grades using list
 grades = [85, 92, 78, 90, 88]
 
+print("Grades:", grades)
+print("Total Students:", len(grades))
+print("Highest:", max(grades))
+print("Lowest:", min(grades))
+print("Average:", sum(grades) / len(grades))
+
