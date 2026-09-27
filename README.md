@@ -21,3 +21,10 @@ This repository contains my practice work for Lecture 03, focusing on working wi
 * List concatenation and repetition
 * Nested lists
 * List mutability
+
+### ✅ List Methods & Slicing
+* **Adding elements:** `append()`, `insert()`, `extend()`
+* **Removing elements:** `remove()`, `pop()`, `clear()`
+* **Sorting and reversing:** `sort()`, `reverse()`, `sorted()`
+* List slicing techniques
+* Copying lists
